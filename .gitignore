@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.streamlit/
+.DS_Store
+chat_categorizer.db
+data/
+*.db
+*.log
