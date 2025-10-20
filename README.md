@@ -3,14 +3,6 @@
   <b>Organize, label, and browse your ChatGPT conversations like an email inbox.</b><br>
   Categorize by topic, filter, and revisit your ideas with ease.
 </p>
-
-<p align="center">
-  <a href="https://github.com/monapdx/ChatGPT-Categories/stargazers"><img src="https://img.shields.io/github/stars/monapdx/ChatGPT-Categories?style=flat-square&color=gold" alt="stars"></a>
-  <a href="https://github.com/monapdx/ChatGPT-Categories/issues"><img src="https://img.shields.io/github/issues/monapdx/ChatGPT-Categories?style=flat-square" alt="issues"></a>
-  <a href="https://github.com/monapdx/ChatGPT-Categories/blob/main/LICENSE"><img src="https://img.shields.io/github/license/monapdx/ChatGPT-Categories?style=flat-square&color=blue" alt="license"></a>
-  <img src="https://img.shields.io/badge/built%20with-Python%20%26%20Streamlit-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python & Streamlit">
-</p>
-
 ---
 
 ### ✨ Overview
