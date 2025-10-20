@@ -1,1 +1,32 @@
-
+{
+  "schema_version": 1,
+  "exported_at": "2025-01-01T00:00:00Z",
+  "categories": [
+    "Coding",
+    "Health",
+    "Apps"
+  ],
+  "chats": [
+    {
+      "id": "demo1234567890ab",
+      "title": "Building a Streamlit app",
+      "created_at": "2025-01-01T12:34:56",
+      "model": "gpt-5",
+      "content": "[user] How do I build a Streamlit app?\n\n[assistant] Here's a minimal example...",
+      "categories": [
+        "Coding",
+        "Apps"
+      ]
+    },
+    {
+      "id": "demoabcdef123456",
+      "title": "Managing chronic swelling",
+      "created_at": "2025-01-02T08:00:00",
+      "model": "gpt-5",
+      "content": "[user] Tips for managing swelling?\n\n[assistant] Consider elevation, compression...",
+      "categories": [
+        "Health"
+      ]
+    }
+  ]
+}
