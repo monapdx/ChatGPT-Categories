@@ -30,7 +30,6 @@ Both apps run **locally**, keep data in **SQLite**, and use a simple, portable `
 |--------------|----------------|
 | <img src="https://raw.githubusercontent.com/monapdx/ChatGPT-Categories/refs/heads/main/assets/screenshots/chat-categories.png" width="420" alt="Chat Categorizer Screenshot"> | <img src="https://raw.githubusercontent.com/monapdx/ChatGPT-Categories/refs/heads/main/assets/screenshots/chat-folders-viewer.png" width="420" alt="Chat Folders Viewer Screenshot"> |
 
-*(add your actual screenshot filenames here — e.g. `assets/` or `/screenshots` folders work great)*
 
 ---
 
