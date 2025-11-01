@@ -1,4 +1,4 @@
-<h1 align="center">📁 ChatGPT-Categories</h1>
+<h1 align="center">📁 InboxGPT</h1>
 <p align="center">
   <b>Organize, label, and browse your ChatGPT conversations like an email inbox.</b><br>
   Categorize by topic, filter, and revisit your ideas with ease.
